@@ -1,5 +1,6 @@
 # Titanic-Survival-With-Machine-Learning
 A comprehensive machine learning project that predicts passenger survival on the Titanic using various classification algorithms and data analysis techniques.
+
 🚢 Overview
 This project analyzes the famous Titanic dataset to predict passenger survival using machine learning techniques. The analysis includes comprehensive data exploration, feature engineering, and implementation of multiple classification algorithms to achieve optimal prediction accuracy.
 📊 Dataset
